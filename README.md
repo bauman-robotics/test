@@ -1,4 +1,0 @@
-# test
-description
-
-## TEST PROJECT
